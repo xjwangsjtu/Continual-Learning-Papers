@@ -4,7 +4,7 @@ Continual Learning(Incremental Learning, Overcoming Catastrophic Forgetting) aim
 
 This is a collection of research and review papers of Continual Learning. The Papers are sorted by time. Any suggestions and pull requests are welcome.
 
-The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact Xuejian Wang (Email: xuejian.wxj [AT] gmail.com)<sup>[1](#myfootnote1)</sup>.
+The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact Xuejian Wang (Email: xuejian.wxj [AT] gmail.com).<sup>[1](#myfootnote1)</sup>
 
 
 
