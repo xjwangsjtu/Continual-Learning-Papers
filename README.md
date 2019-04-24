@@ -9,12 +9,16 @@ The sharing principle of these references here is for research. If any authors d
 
 
 ## Overview
+* [Review](#review)
 * [Research Papers](#research-papers)
   * [Foundamentals](#foundamentals)
   * [Setting Discussion](#setting-discussion)
   * [Regularization Based](#regularization-based)
   * [Rehearsal or Psuedo Rehearsal](#rehearsal-or-pusedo-rehearsal)
   * [Network Structure](#network-structure)
+
+## Review
+* [Continual Lifelong Learning with Neural Networks: A Review](https://arxiv.org/abs/1802.07569) by German I. Parisi, Ronald Kemker, Jose L. Part, Christopher Kanan, Stefan Wermter. arXiv, 2018
 
 ## Research Papers
 
