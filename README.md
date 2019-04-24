@@ -1,8 +1,10 @@
 # Paper Collection of Continual Learning
 
-Continual Learning(Incremental Learning, Overcoming Catastrophic Forgetting) aiming at using full capacity of neural network in sequential training setting without losing performance in previous tasks.
+Continual Learning(Incremental Learning, Overcoming Catastrophic Forgetting) aiming at retaining performance of neural network in sequential training setting， i.e. training on a new task without losing performance in previous task(s).
 
 This is a collection of research and review papers of Continual Learning. The Papers are sorted by time. Any suggestions and pull requests are welcome.
+
+If you don't want your paper to appear here, please contact [Xuejian Wang](mailto:xuejian.wxj@gmail.com)(xuejian.wxj[AT]gmail.com)
 
 ## Overview
 * [Research Papers](#research-papers)
