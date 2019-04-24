@@ -53,16 +53,21 @@ Hippolyt Ritter, Aleksandar Botev, David Barber. NIPS, 2018.
 * [iCaRL: Incremental Classifier and Representation Learning](https://arxiv.org/abs/1611.07725) by 
 Sylvestre-Alvise Rebuffi, Alexander Kolesnikov, Georg Sperl, Christoph H. Lampert. CVPR, 2017.
 * [Deep Generative Dual Memory Network for Continual Learning](https://arxiv.org/abs/1710.10368) by Nitin Kamra, Umang Gupta, Yan Liu. arXiv, 2017
+
 * [Continual Learning with Deep Generative Replay](https://arxiv.org/abs/1705.08690) by Hanul Shin, Jung Kwon Lee, Jaehong Kim, Jiwon Kim. NIPS, 2017.
+* [Gradient Episodic Memory for Continual Learning](https://arxiv.org/abs/1706.08840) by David Lopez-Paz, Marc'Aurelio Ranzato. NIPS, 2017.
 * [FearNet: Brain-Inspired Model for Incremental Learning](https://arxiv.org/abs/1711.10563) by Ronald Kemker, Christopher Kanan. ICLR, 2018.
 * [Incremental Classifier Learning with Generative Adversarial Networks](https://arxiv.org/abs/1802.00853) by Yue Wu, Yinpeng Chen, Lijuan Wang, Yuancheng Ye, Zicheng Liu, Yandong Guo, Zhengyou Zhang, Yun Fu. arXiv, 2018.
 * [Memory Replay GANs: Learning to Generate New Categories without Forgetting](https://papers.nips.cc/paper/7836-memory-replay-gans-learning-to-generate-new-categories-without-forgetting) by Chenshen Wu, et al. NIPS, 2018.
+* [Lifelong Learning via Progressive Distillation and Retrospection](http://mmlab.ie.cuhk.edu.hk/projects/lifelong/res/0833.pdf) by Saihui Hou, Xinyu Pan, Chen Change Loy, Zilei Wang, Dahua Lin. ECCV, 2018. 
+* [Learning to Learn without Forgetting By Maximizing Transfer and Minimizing Interference](https://arxiv.org/abs/1810.11910) by Matthew Riemer, Ignacio Cases, Robert Ajemian, Miao Liu, Irina Rish, Yuhai Tu, Gerald Tesauro. arXiv, 2018.
 * [Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation](https://openreview.net/forum?id=ryGvcoA5YX) by Wenpeng Hu, et al. ICLR, 2019.
 
 
 ### Network Structure
 * [Progressive Neural Networks](https://arxiv.org/abs/1606.04671) by 
 Andrei A. Rusu. arXiv, 2016.
+* [Lifelong Learning with Dynamically Expandable Networks](https://arxiv.org/abs/1708.01547) by Jaehong Yoon, Eunho Yang, Jeongtae Lee, Sung Ju Hwang. arXiv, 2017.
 * [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/pdf/1711.00832.pdf) by 
 Chrisantha Fernando, et al. arXiv 2017.
 * [Overcoming catastrophic forgetting through weight consolidation and long-term memory](https://arxiv.org/abs/1805.07441) by Shixian Wen, Laurent Itti. arXiv, 2018.
@@ -70,14 +75,9 @@ Chrisantha Fernando, et al. arXiv 2017.
 
 ### Yet Not Categorized
 * [A Bio-Inspired Incremental Learning Architecture for Applied Perceptual Problems](https://link.springer.com/article/10.1007/s12559-016-9389-5) by Gepperth, Alexander and Cem Karaoguz. Cognitive Computation, 2016.
-* [Gradient Episodic Memory for Continual Learning](https://arxiv.org/abs/1706.08840) by David Lopez-Paz, Marc'Aurelio Ranzato. NIPS, 2017.
-* [Lifelong Learning with Dynamically Expandable Networks](https://arxiv.org/abs/1708.01547) by Jaehong Yoon, Eunho Yang, Jeongtae Lee, Sung Ju Hwang. arXiv, 2017.
 * [Dynamic Few-Shot Visual Learning without Forgetting](https://arxiv.org/abs/1804.09458) by Spyros Gidaris, Nikos Komodakis. CVPR, 2018.
 * [Generative replay with feedback connections as a general strategy for continual learning](https://arxiv.org/abs/1809.10635) by Gido M. van de Ven, Andreas S. Tolias. arXiv, 2018
 * [Overcoming catastrophic forgetting with hard attention to the task](https://arxiv.org/abs/1801.01423) by Joan Serrà, Dídac Surís, Marius Miron, Alexandros Karatzoglou. ICML, 2018
-
-* [Learning to Learn without Forgetting By Maximizing Transfer and Minimizing Interference](https://arxiv.org/abs/1810.11910) by Matthew Riemer, Ignacio Cases, Robert Ajemian, Miao Liu, Irina Rish, Yuhai Tu, Gerald Tesauro. arXiv, 2018.
-* [Lifelong Learning via Progressive Distillation and Retrospection](http://mmlab.ie.cuhk.edu.hk/projects/lifelong/res/0833.pdf) by Saihui Hou, Xinyu Pan, Chen Change Loy, Zilei Wang, Dahua Lin. ECCV, 2018. 
 * [Few-Shot Self Reminder to Overcome Catastrophic Forgetting](https://arxiv.org/abs/1812.00543) by Junfeng Wen, Yanshuai Cao, Ruitong Huang. NIPS, 2018.
 * [Reinforced Continual Learning](https://arxiv.org/abs/1805.12369) by Ju Xu, Zhanxing Zhu. NIPS, 2018.
 * [Meta Continual Learning](https://arxiv.org/abs/1806.06928) by Risto Vuorio, Dong-Yeon Cho, Daejoong Kim, Jiwon Kim. arXiv, 2018.
