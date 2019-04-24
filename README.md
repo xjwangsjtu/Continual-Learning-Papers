@@ -6,13 +6,11 @@ This is a collection of research and review papers of Continual Learning. The Pa
 
 ## Overview
 * [Research Papers](#research-papers)
-  * [Foundamentals](foundamentals)
-  * [Setting Discussion](https://github.com/xjwangsjtu/Contiual-Learning-Papers#setting-discussion)
-  * [Regularization Based](https://github.com/xjwangsjtu/Contiual-Learning-Papers#regularization-based)
-  * [Rehearsal or Psuedo Rehearsal](https://github.com/xjwangsjtu/Contiual-Learning-Papers#rehearsal-or-pusedo-rehearsal)
-  * [Network Structure](https://github.com/xjwangsjtu/Contiual-Learning-Papers#network-structure)
-  * [Inverse Reinforcement Learning](https://github.com/LantaoYu/MARL-Papers#inverse-reinforcement-learning)
-  * [Application](https://github.com/LantaoYu/MARL-Papers#application)
+  * [Foundamentals](#foundamentals)
+  * [Setting Discussion](#setting-discussion)
+  * [Regularization Based](#regularization-based)
+  * [Rehearsal or Psuedo Rehearsal](#rehearsal-or-pusedo-rehearsal)
+  * [Network Structure](#network-structure)
 
 ## Research Papers
 
