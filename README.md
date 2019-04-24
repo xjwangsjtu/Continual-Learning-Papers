@@ -5,12 +5,12 @@ Continual Learning(Incremental Learning, Overcoming Catastrophic Forgetting) aim
 This is a collection of research and review papers of Continual Learning. The Papers are sorted by time. Any suggestions and pull requests are welcome.
 
 ## Overview
-* [Research Papers](https://github.com/xjwangsjtu/CL-Papers#research-papers)
-  * [Foundamentals](https://github.com/xjwangsjtu/CL-Papers#foundamentals)
-  * [Setting Discussion](https://github.com/xjwangsjtu/CL-Papers#setting-discussion)
-  * [Regularization Based](https://github.com/xjwangsjtu/CL-Papers#regularization-based)
-  * [Rehearsal or Psuedo Rehearsal](https://github.com/xjwangsjtu/CL-Papers#rehearsal-or-pusedo-rehearsal)
-  * [Network Structure](https://github.com/xjwangsjtu/CL-Papers#network-structure)
+* [Research Papers](https://github.com/xjwangsjtu/Contiual-Learning-Papers#research-papers)
+  * [Foundamentals](https://github.com/xjwangsjtu/Contiual-Learning-Papers#foundamentals)
+  * [Setting Discussion](https://github.com/xjwangsjtu/Contiual-Learning-Papers#setting-discussion)
+  * [Regularization Based](https://github.com/xjwangsjtu/Contiual-Learning-Papers#regularization-based)
+  * [Rehearsal or Psuedo Rehearsal](https://github.com/xjwangsjtu/Contiual-Learning-Papers#rehearsal-or-pusedo-rehearsal)
+  * [Network Structure](https://github.com/xjwangsjtu/Contiual-Learning-Papers#network-structure)
 
 ## Research Papers
 
