@@ -4,7 +4,9 @@ Continual Learning(Incremental Learning, Overcoming Catastrophic Forgetting) aim
 
 This is a collection of research and review papers of Continual Learning. The Papers are sorted by time. Any suggestions and pull requests are welcome.
 
-If you don't want your paper to appear here, please contact [Xuejian Wang](mailto:xuejian.wxj@gmail.com)(xuejian.wxj[AT]gmail.com)
+The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact Xuejian Wang (Email: xuejian.wxj [AT] gmail.com).<sup>[1](#myfootnote1)</sup>
+
+
 
 ## Overview
 * [Research Papers](#research-papers)
@@ -70,3 +72,7 @@ Chrisantha Fernando, et al. arXiv 2017.
 * [Lifelong Learning via Progressive Distillation and Retrospection](http://mmlab.ie.cuhk.edu.hk/projects/lifelong/res/0833.pdf) by Saihui Hou, Xinyu Pan, Chen Change Loy, Zilei Wang, Dahua Lin. ECCV, 2018. 
 * [Few-Shot Self Reminder to Overcome Catastrophic Forgetting](https://arxiv.org/abs/1812.00543) by Junfeng Wen, Yanshuai Cao, Ruitong Huang. NIPS, 2018.
 * [Reinforced Continual Learning](https://arxiv.org/abs/1805.12369) by Ju Xu, Zhanxing Zhu. NIPS, 2018.
+
+
+<a name="myfootnote1">1</a>: (Template borrowed from [Lantao Yu](https://github.com/LantaoYu/MARL-Papers#framework))
+
