@@ -5,12 +5,14 @@ Continual Learning(Incremental Learning, Overcoming Catastrophic Forgetting) aim
 This is a collection of research and review papers of Continual Learning. The Papers are sorted by time. Any suggestions and pull requests are welcome.
 
 ## Overview
-* [Research Papers](https://github.com/xjwangsjtu/Contiual-Learning-Papers#research-papers)
-  * [Foundamentals](https://github.com/xjwangsjtu/Contiual-Learning-Papers#foundamentals)
+* [Research Papers](#research-papers)
+  * [Foundamentals](foundamentals)
   * [Setting Discussion](https://github.com/xjwangsjtu/Contiual-Learning-Papers#setting-discussion)
   * [Regularization Based](https://github.com/xjwangsjtu/Contiual-Learning-Papers#regularization-based)
   * [Rehearsal or Psuedo Rehearsal](https://github.com/xjwangsjtu/Contiual-Learning-Papers#rehearsal-or-pusedo-rehearsal)
   * [Network Structure](https://github.com/xjwangsjtu/Contiual-Learning-Papers#network-structure)
+  * [Inverse Reinforcement Learning](https://github.com/LantaoYu/MARL-Papers#inverse-reinforcement-learning)
+  * [Application](https://github.com/LantaoYu/MARL-Papers#application)
 
 ## Research Papers
 
@@ -18,7 +20,6 @@ This is a collection of research and review papers of Continual Learning. The Pa
 * [Catastrophic interference in connectionist networks: The sequential learning problem](https://www.sciencedirect.com/science/article/pii/S0079742108605368) by McCloskey, Michael and Cohen, Neal J. Psychology of learning and motivation, 1989.
 * [A practical Bayesian framework for backpropagation networks](https://arxiv.org/pdf/1703.06182.pdf) by MacKay, David JC. Neural computation, 1992.
 * [Catastrophic forgetting in connectionist networks](https://www.sciencedirect.com/science/article/pii/S1364661399012942) by French, Robert M. Trends in cognitive sciences, 1999.
-
 * [Revisiting natural gradient for deep networks](https://arxiv.org/abs/1301.3584) by Razvan Pascanu, Yoshua Bengio. ICLR, 2014.
 * [Distilling the knowledge in a neural network](https://arxiv.org/abs/1503.02531) by Geoffrey Hinton, Oriol Vinyals, Jeff Dean. arXiv, 2015.
 
