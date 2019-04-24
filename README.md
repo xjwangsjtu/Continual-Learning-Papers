@@ -83,7 +83,7 @@ Chrisantha Fernando, et al. arXiv 2017.
 * [Selfless Sequential Learning](https://arxiv.org/abs/1806.05421) by Rahaf Aljundi, Marcus Rohrbach, Tinne Tuytelaars. arXiv, 2018.
 * [Progress & Compress: A scalable framework for continual learning](https://arxiv.org/abs/1805.06370) by Jonathan Schwarz, Jelena Luketina, Wojciech M. Czarnecki, Agnieszka Grabska-Barwinska, Yee Whye Teh, Razvan Pascanu, Raia Hadsell. arXiv, 2018.
 
-\\
+<br/>
 
 <a name="myfootnote1">1</a>: (Template borrowed from [Lantao Yu](https://github.com/LantaoYu/MARL-Papers#framework))
 
