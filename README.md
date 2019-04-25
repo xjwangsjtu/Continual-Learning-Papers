@@ -37,6 +37,7 @@ Ian J. Goodfellow, Mehdi Mirza, Da Xiao, Aaron Courville, Yoshua Bengio. arXiv, 
 Sebastian Farquhar, Yarin Gal. ICML LLRALA Workshop, 2018.
 * [A comprehensive, application-oriented study of catastrophic forgetting in DNNs](https://openreview.net/forum?id=BkloRs0qK7) by B. Pfülb, A. Gepperth. ICLR, 2019.
 * [An Empirical Study of Example Forgetting during Deep Neural Network Learning](https://openreview.net/forum?id=BJlxm30cKm) by Mariya Toneva*, Alessandro Sordoni*, Remi Tachet des Combes*, Adam Trischler, Yoshua Bengio, Geoffrey J. Gordon. ICLR, 2019.
+* [Three scenarios for continual learning](https://arxiv.org/abs/1904.07734) by Gido M. van de Ven, Andreas S. Tolias. arXiv, 2019.
 
 
 
