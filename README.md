@@ -46,6 +46,7 @@ Sebastian Farquhar, Yarin Gal. ICML LLRALA Workshop, 2018.
 * [Continual Learning Through Synaptic Intelligence](https://arxiv.org/abs/1703.04200) by Friedemann Zenke, Ben Poole, Surya Ganguli. ICML, 2017.
 * [Overcoming Catastrophic Forgetting by Incremental Moment Matching](https://arxiv.org/abs/1703.08475) by Sang-Woo Lee. NIPS, 2017.
 * [Variational Continual Learning](https://arxiv.org/abs/1710.10628) by Cuong V. Nguyen, Yingzhen Li, Thang D. Bui, Richard E. Turner. ICLR, 2018.
+* [Selfless Sequential Learning](https://arxiv.org/abs/1806.05421) by Rahaf Aljundi, Marcus Rohrbach, Tinne Tuytelaars. arXiv, 2018.
 * [Online Structured Laplace Approximations For Overcoming Catastrophic Forgetting](https://arxiv.org/abs/1805.07810) by 
 Hippolyt Ritter, Aleksandar Botev, David Barber. NIPS, 2018.
 
@@ -82,7 +83,6 @@ Chrisantha Fernando, et al. arXiv 2017.
 * [Few-Shot Self Reminder to Overcome Catastrophic Forgetting](https://arxiv.org/abs/1812.00543) by Junfeng Wen, Yanshuai Cao, Ruitong Huang. NIPS, 2018.
 * [Reinforced Continual Learning](https://arxiv.org/abs/1805.12369) by Ju Xu, Zhanxing Zhu. NIPS, 2018.
 * [Meta Continual Learning](https://arxiv.org/abs/1806.06928) by Risto Vuorio, Dong-Yeon Cho, Daejoong Kim, Jiwon Kim. arXiv, 2018.
-* [Selfless Sequential Learning](https://arxiv.org/abs/1806.05421) by Rahaf Aljundi, Marcus Rohrbach, Tinne Tuytelaars. arXiv, 2018.
 * [Progress & Compress: A scalable framework for continual learning](https://arxiv.org/abs/1805.06370) by Jonathan Schwarz, Jelena Luketina, Wojciech M. Czarnecki, Agnieszka Grabska-Barwinska, Yee Whye Teh, Razvan Pascanu, Raia Hadsell. arXiv, 2018.
 
 <br/>
