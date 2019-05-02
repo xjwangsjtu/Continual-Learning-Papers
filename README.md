@@ -69,9 +69,9 @@ Sylvestre-Alvise Rebuffi, Alexander Kolesnikov, Georg Sperl, Christoph H. Lamper
 ### Network Structure
 * [Progressive Neural Networks](https://arxiv.org/abs/1606.04671) by 
 Andrei A. Rusu. arXiv, 2016.
-* [Lifelong Learning with Dynamically Expandable Networks](https://arxiv.org/abs/1708.01547) by Jaehong Yoon, Eunho Yang, Jeongtae Lee, Sung Ju Hwang. arXiv, 2017.
-* [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/pdf/1711.00832.pdf) by 
+* [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734) by 
 Chrisantha Fernando, et al. arXiv 2017.
+* [Lifelong Learning with Dynamically Expandable Networks](https://arxiv.org/abs/1708.01547) by Jaehong Yoon, Eunho Yang, Jeongtae Lee, Sung Ju Hwang. arXiv, 2017.
 * [Overcoming catastrophic forgetting through weight consolidation and long-term memory](https://arxiv.org/abs/1805.07441) by Shixian Wen, Laurent Itti. arXiv, 2018.
 * [Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting](https://arxiv.org/abs/1904.00310) by Xilai Li, Yingbo Zhou, Tianfu Wu, Richard Socher, Caiming Xiong. ICML, 2019.
 
