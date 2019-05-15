@@ -73,6 +73,7 @@ Andrei A. Rusu. arXiv, 2016.
 Chrisantha Fernando, et al. arXiv 2017.
 * [Lifelong Learning with Dynamically Expandable Networks](https://arxiv.org/abs/1708.01547) by Jaehong Yoon, Eunho Yang, Jeongtae Lee, Sung Ju Hwang. arXiv, 2017.
 * [Overcoming catastrophic forgetting through weight consolidation and long-term memory](https://arxiv.org/abs/1805.07441) by Shixian Wen, Laurent Itti. arXiv, 2018.
+* [Reinforced Continual Learning](https://arxiv.org/abs/1805.12369) by Ju Xu, Zhanxing Zhu. NIPS, 2018.
 * [Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting](https://arxiv.org/abs/1904.00310) by Xilai Li, Yingbo Zhou, Tianfu Wu, Richard Socher, Caiming Xiong. ICML, 2019.
 
 ### Yet Not Categorized
@@ -81,7 +82,6 @@ Chrisantha Fernando, et al. arXiv 2017.
 * [Generative replay with feedback connections as a general strategy for continual learning](https://arxiv.org/abs/1809.10635) by Gido M. van de Ven, Andreas S. Tolias. arXiv, 2018
 * [Overcoming catastrophic forgetting with hard attention to the task](https://arxiv.org/abs/1801.01423) by Joan Serrà, Dídac Surís, Marius Miron, Alexandros Karatzoglou. ICML, 2018
 * [Few-Shot Self Reminder to Overcome Catastrophic Forgetting](https://arxiv.org/abs/1812.00543) by Junfeng Wen, Yanshuai Cao, Ruitong Huang. NIPS, 2018.
-* [Reinforced Continual Learning](https://arxiv.org/abs/1805.12369) by Ju Xu, Zhanxing Zhu. NIPS, 2018.
 * [Meta Continual Learning](https://arxiv.org/abs/1806.06928) by Risto Vuorio, Dong-Yeon Cho, Daejoong Kim, Jiwon Kim. arXiv, 2018.
 * [Progress & Compress: A scalable framework for continual learning](https://arxiv.org/abs/1805.06370) by Jonathan Schwarz, Jelena Luketina, Wojciech M. Czarnecki, Agnieszka Grabska-Barwinska, Yee Whye Teh, Razvan Pascanu, Raia Hadsell. arXiv, 2018.
 
